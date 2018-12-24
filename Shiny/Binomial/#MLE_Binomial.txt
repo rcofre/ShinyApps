@@ -1,0 +1,7 @@
+MLE Binomial Shiny App
+ 
+Base R code created by Gail Potter
+Shiny app files created by Gail Potter
+
+Cal Poly Statistics Dept Shiny Series 
+http://statistics.calpoly.edu/shiny

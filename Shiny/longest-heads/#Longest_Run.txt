@@ -1,0 +1,7 @@
+Longest Run Shiny App
+ 
+Base R code created by Jimmy Doi
+Shiny app files created by Jimmy Doi
+
+Cal Poly Statistics Dept Shiny Series 
+http://statistics.calpoly.edu/shiny
